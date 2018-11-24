@@ -1,3 +1,4 @@
 // write your code below!
-function(happyHolidays){
-puts 
+function happyHolidays(){
+  
+}
